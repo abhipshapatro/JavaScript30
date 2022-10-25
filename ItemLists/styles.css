@@ -1,0 +1,27 @@
+.navbar{
+    background:#EAB308;
+}
+#adder form{
+    display:flex;
+    flex-direction:row;
+}
+#adder form input{
+    margin-right:1em;
+}
+#adder{
+    margin-top:2em;
+}
+#content{
+    margin:1.5em;
+    padding:4px;
+    background:#E7E5E4;
+}
+#content ul li p{
+    font-size:1.3em;
+}
+.items{
+    margin:1.3em;
+}
+.btn-outline-danger{
+    float:right;
+}
